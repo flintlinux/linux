@@ -1,10 +1,14 @@
-# Maintainer: Jan Alexander Steffens (heftig) <heftig@archlinux.org>
+# Maintainer: Aiden Asset (adenast) <aiden0@zohomail.com>
+# 
+# Credits:
+# This PKGBUILD is based on the original work for Arch Linux by:
+# Jan Alexander Steffens (heftig) <heftig@archlinux.org>
 
 pkgbase=linux
 pkgver=6.18.2.arch2
 pkgrel=1
 pkgdesc='Linux'
-url='https://github.com/archlinux/linux'
+url='https://github.com/flintlinux/linux'
 arch=(x86_64)
 license=(GPL-2.0-only)
 makedepends=(
